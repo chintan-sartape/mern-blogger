@@ -1,0 +1,110 @@
+[
+  {
+    "_id": {
+      "$oid": "61c2f9d33590e5ab0d41f98b"
+    },
+    "email": "john@john.com",
+    "name": "john",
+    "password": "john@12345",
+    "role": "61c6d87c52766d61ab628a66"
+  },
+  {
+    "_id": {
+      "$oid": "61c2fa033590e5ab0d41f98c"
+    },
+    "email": "smith@smith.com",
+    "name": "smith",
+    "password": "smith@12345",
+    "role": "61c6d87c52766d61ab628a66"
+  },
+  {
+    "_id": {
+      "$oid": "61c300893590e5ab0d41f98d"
+    },
+    "email": "kedar@kedar.com",
+    "name": "kedar",
+    "password": "kedar@12345",
+    "role": "61c6d8c552766d61ab628a67"
+  },
+  {
+    "_id": {
+      "$oid": "61c302edba48a75518178c4f"
+    },
+    "email": "jenny@jenny.com",
+    "name": "jenny",
+    "password": "jenny@12345",
+    "role": "61c6d87c52766d61ab628a66"
+  },
+  {
+    "_id": {
+      "$oid": "61c30bddc4024754e887004d"
+    },
+    "email": "julia@julia.com",
+    "name": "julia",
+    "password": "julia@12345",
+    "role": "61c6d87c52766d61ab628a66"
+  },
+  {
+    "_id": {
+      "$oid": "61c30e235a29c3581cf9b3a2"
+    },
+    "email": "lilly@lilly.com",
+    "name": "lilly",
+    "password": "lilly@12345",
+    "role": "61c6d87c52766d61ab628a66"
+  },
+  {
+    "_id": {
+      "$oid": "61c30ea25a29c3581cf9b3a4"
+    },
+    "email": "kim@kim.com",
+    "name": "kim",
+    "password": "kim@12345",
+    "role": "61c6d87c52766d61ab628a66"
+  },
+  {
+    "_id": {
+      "$oid": "61c315985a29c3581cf9b3a6"
+    },
+    "email": "teddy@teddy.com",
+    "name": "teddy",
+    "password": "teddy@12345",
+    "role": "61c6d87c52766d61ab628a66"
+  },
+  {
+    "_id": {
+      "$oid": "61c3210e5a29c3581cf9ec21"
+    },
+    "email": "shakira@shakira.com",
+    "name": "shakira",
+    "password": "shakira@12345",
+    "role": "61c6d87c52766d61ab628a66"
+  },
+  {
+    "_id": {
+      "$oid": "61c322865a29c3581cf9ec23"
+    },
+    "email": "juli@juli.com",
+    "name": "juli",
+    "password": "juli@12345",
+    "role": "61c6d87c52766d61ab628a66"
+  },
+  {
+    "_id": {
+      "$oid": "61c409503645f846400672f2"
+    },
+    "email": "sunny@sunny.com",
+    "name": "sunny",
+    "password": "sunny@12345",
+    "role": "61c6d87c52766d61ab628a66"
+  },
+  {
+    "_id": {
+      "$oid": "61c437e28b44483028afb265"
+    },
+    "email": "stanley@stanley.com",
+    "name": "stanley",
+    "password": "stanley@12345",
+    "role": "61c6d87c52766d61ab628a66"
+  }
+]
